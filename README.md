@@ -5,5 +5,9 @@ This repository contains my submission for the final project of the Deep Learnin
 ## Installation
 
 ```bash
+conda create -n dlt python=3.8
+
+conda activate dlt
+
 pip install -r requirements.txt
 ```
