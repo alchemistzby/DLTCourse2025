@@ -1,6 +1,6 @@
 # DLTCourse2025
 
-This repository contains my submission for the final project of the Deep Learning Theory course at Peking University.
+This repository contains our submission for the final project of the Deep Learning Theory course at Peking University.
 
 ## Installation
 
